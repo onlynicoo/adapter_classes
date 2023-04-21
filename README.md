@@ -1,2 +1,2 @@
 # adapter_classes
-Academic project, development of adapter classes for java.util interfaces.
+Accademic project, developed adapter classes for java.util interfaces.
